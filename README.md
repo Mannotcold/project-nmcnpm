@@ -71,7 +71,7 @@
 |HTML      |NodeJS   |MongoDB |
 |CSS       |ExpressJS|
 |JavaScript|
-|ReactJS   |
+|ReactJS   | 
 
 #  6. COMMUNICATION TOOLS
 
@@ -82,9 +82,10 @@
 |Jira       |
 |Google Docs|
 
+
 # 7. BUILD PROJECT
 ```
-npm install -i
+npm install -i 
 ```
 After install , run
 ```
